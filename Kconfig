@@ -1,0 +1,12 @@
+#
+# Copyright 2024 NXP
+#
+# SPDX-License-Identifier: MIT
+#
+
+menuconfig MCUX_COMPONENT_middleware.freertos.corehttp
+    bool "corehttp"
+    default n
+    help
+        C language HTTP client library designed for embedded platforms
+    select MCUX_COMPONENT_middleware.llhttp

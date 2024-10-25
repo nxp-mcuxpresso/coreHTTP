@@ -1,0 +1,13 @@
+NXP Software Content Register
+
+Package: corehttp
+Version: 3.0.0
+Outgoing License: MIT
+License File: LICENSE
+Type of Content: source code, header files
+Description and comments: C language HTTP client library designed for embedded platforms
+Release Location: https://github.com/nxp-mcuxpresso/corehttp
+Origin: 
+      NXP (MIT)
+      Amazon (MIT)  - https://github.com/FreeRTOS/corehttp
+
